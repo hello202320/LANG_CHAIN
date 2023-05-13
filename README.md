@@ -1,5 +1,5 @@
 
-##LANG CHAIN
+## LANG CHAIN
 The application utilizes a Large Language Model (LLM) to generate responses specifically related to your PDF. The LLM is designed to refrain from answering questions that are not relevant to the document.
 ## Installation
 
